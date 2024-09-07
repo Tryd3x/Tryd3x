@@ -6,7 +6,9 @@
 
 ## 🚀 About Me
 
-I’m a **Data Scientist** and **Machine Learning Engineer** with experience in designing and implementing end-to-end machine learning pipelines. My expertise includes data ingestion, exploratory data analysis (EDA), data preprocessing, model training, and deployment on platforms like Flask. I have a passion for solving complex problems using advanced machine learning techniques, hyperparameter tuning, and production-ready systems with custom logging and exception handling.
+I’m a **Data Scientist** and **Machine Learning Engineer** with an M.S. in Computer Science specialized in Data Science. I have successfully led cross-functional teams and completed projects within 2 months, demonstrating expertise in performing ETL, generating Tableau visualizations, and reducing campaign costs by 5%. I have contributed to open-source machine learning repositories, implemented B-I-O tagging for 141,000 tokens, and developed a 5-feature set with a CRF sequence tagging model achieving 91% document-level accuracy. My experience also includes identifying fake news using SVM models with 88.92% accuracy.
+
+My expertise spans designing and implementing end-to-end machine learning pipelines, including data ingestion, exploratory data analysis (EDA), data preprocessing, model training, and deployment on platforms like Flask. I am passionate about solving complex problems using advanced machine learning techniques, hyperparameter tuning, and creating production-ready systems with custom logging and exception handling.
 
 ## 🛠️ Tech Stack
 
