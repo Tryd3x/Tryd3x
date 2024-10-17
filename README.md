@@ -6,9 +6,13 @@
 
 ## 🚀 About Me
 
-I’m a **Data Scientist** and **Machine Learning Engineer** with an M.S. in Computer Science specialized in Data Science. I have successfully led cross-functional teams and completed projects within 2 months, demonstrating expertise in performing ETL, generating Tableau visualizations, and reducing campaign costs by 5%. I have contributed to open-source machine learning repositories, implemented B-I-O tagging for 141,000 tokens, and developed a 5-feature set with a CRF sequence tagging model achieving 91% document-level accuracy. My experience also includes identifying fake news using SVM models with 88.92% accuracy.
+I am a **Data Scientist** and **Machine Learning Engineer** with an M.S. in Computer Science, specializing in Data Science. My expertise spans designing and implementing robust data solutions and end-to-end machine learning pipelines, covering data ingestion, exploratory data analysis (EDA), data preprocessing, model training, and deployment. I have hands-on experience streamlining data onboarding with automated ETL pipelines, multi-source data integration, and cloud-based solutions using AWS services like Sagemaker, Glue, Lambda, and Redshift.
 
-My expertise spans designing and implementing end-to-end machine learning pipelines, including data ingestion, exploratory data analysis (EDA), data preprocessing, model training, and deployment on platforms like Flask. I am passionate about solving complex problems using advanced machine learning techniques, hyperparameter tuning, and creating production-ready systems with custom logging and exception handling.
+My work also includes developing real-time data pipelines for applications such as fraud detection and contract data processing, leveraging Python, Apache Spark, and cloud solutions to optimize performance and cut costs. I am skilled at creating centralized data lakes, constructing scalable ETL pipelines, and integrating CI/CD practices with Docker to ensure reliable, efficient data flow.
+
+In addition, I am passionate about solving complex problems using advanced machine learning techniques and transfer learning models (e.g., GPT-3, BERT), building interactive data visualizations with tools like Tableau and Plotly, and optimizing SQL queries for faster data retrieval. Whether it's enhancing operational efficiency, reducing manual intervention, or cutting down processing time, I am committed to delivering data-driven solutions that drive business value.
+
+
 
 ## 🛠️ Tech Stack
 
