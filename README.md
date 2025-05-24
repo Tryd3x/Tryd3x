@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-I am a **Data Scientist** and **Machine Learning Engineer** with an M.S. in Computer Science, specializing in Data Science. My expertise spans designing and implementing robust data solutions and end-to-end machine learning pipelines, covering data ingestion, exploratory data analysis (EDA), data preprocessing, model training, and deployment. I have hands-on experience streamlining data onboarding with automated ETL pipelines, multi-source data integration, and cloud-based solutions using AWS services like Sagemaker, Glue, Lambda, and Redshift.
+I am a **Data Engineer** and **Scientist** with an Masters in Computer Science. My expertise spans designing and implementing robust data solutions and end-to-end machine learning pipelines, covering data ingestion, exploratory data analysis (EDA), data preprocessing, model training, and deployment. I have hands-on experience streamlining data onboarding with automated ETL pipelines, multi-source data integration, and cloud-based solutions using AWS services like Sagemaker, Glue, Lambda, and Redshift.
 
 My work also includes developing real-time data pipelines for applications such as fraud detection and contract data processing, leveraging Python, Apache Spark, and cloud solutions to optimize performance and cut costs. I am skilled at creating centralized data lakes, constructing scalable ETL pipelines, and integrating CI/CD practices with Docker to ensure reliable, efficient data flow.
 
-In addition, I am passionate about solving complex problems using advanced machine learning techniques and transfer learning models (e.g., GPT-3, BERT), building interactive data visualizations with tools like Tableau and Plotly, and optimizing SQL queries for faster data retrieval. Whether it's enhancing operational efficiency, reducing manual intervention, or cutting down processing time, I am committed to delivering data-driven solutions that drive business value.
+In addition, I am passionate about solving complex problems, building interactive data visualizations with tools like Tableau and Plotly, and optimizing SQL queries for faster data retrieval. Whether it's enhancing operational efficiency, reducing manual intervention, or cutting down processing time, I am committed to delivering data-driven solutions that drive business value.
 
 
 
