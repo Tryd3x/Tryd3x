@@ -1,17 +1,18 @@
 # Hi there, I'm Hyder Reza 👋
 
-![GitHub followers](https://img.shields.io/github/followers/tryd3x?label=Follow%20Me&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/tryd3x?label=Stars&style=social)  
-![Profile Views](https://komarev.com/ghpvc/?username=tryd3x&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/tryd3x?label=Follow%20Me&style=social)
+![GitHub stars](https://img.shields.io/github/stars/tryd3x?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=tryd3x&color=blue)
 
 ## 🚀 About Me
 
-I am a **Data Engineer** and **Scientist** with an Masters in Computer Science. My expertise spans designing and implementing robust data solutions and end-to-end machine learning pipelines, covering data ingestion, exploratory data analysis (EDA), data preprocessing, model training, and deployment. I have hands-on experience streamlining data onboarding with automated ETL pipelines, multi-source data integration, and cloud-based solutions using AWS services like Sagemaker, Glue, Lambda, and Redshift.
+I am a **Data Engineer** and **Scientist** with a Master’s in Computer Science, specializing in designing and building scalable, reliable data solutions that drive business impact. My technical expertise spans end-to-end data pipeline development, cloud-native architectures, and machine learning workflows.
 
-My work also includes developing real-time data pipelines for applications such as fraud detection and contract data processing, leveraging Python, Apache Spark, and cloud solutions to optimize performance and cut costs. I am skilled at creating centralized data lakes, constructing scalable ETL pipelines, and integrating CI/CD practices with Docker to ensure reliable, efficient data flow.
+I have hands-on experience with large-scale data processing using Apache Spark, Python, and SQL, as well as orchestrating complex workflows with tools like Airflow and DBT. Skilled in cloud platforms—primarily AWS and GCP—I build and optimize data lakes, ETL pipelines, and data warehouses using services such as AWS Glue, Lambda, Redshift, and GCP BigQuery and Terraform for infrastructure as code.
 
-In addition, I am passionate about solving complex problems, building interactive data visualizations with tools like Tableau and Plotly, and optimizing SQL queries for faster data retrieval. Whether it's enhancing operational efficiency, reducing manual intervention, or cutting down processing time, I am committed to delivering data-driven solutions that drive business value.
+Beyond batch processing, I develop real-time and automated pipelines that improve efficiency and reduce costs, integrating CI/CD practices with Docker and monitoring solutions like Prometheus and Grafana to ensure system reliability and performance. I also bring a strong foundation in data science, including feature engineering, model deployment, and building interactive data visualizations.
 
+Committed to delivering data-driven solutions, I focus on transforming complex, multi-source data into actionable insights that empower smarter decision-making.
 
 
 ## 🛠️ Tech Stack
@@ -39,11 +40,25 @@ In addition, I am passionate about solving complex problems, building interactiv
 
 ## 📝 Recent Projects
 
-### 1. [Adult Income Prediction using ML Pipeline](https://github.com/tryd3x/ml-pipeline)
+### [Healthcare Data Pipeline: Medication Safety](https://github.com/Tryd3x/ade-pipeline)  
+- **Goal**: Build a scalable, end-to-end data pipeline to process 100GB+ OpenFDA pharmaceutical datasets for medication safety analytics.  
+- **Highlights**: Developed robust data ingestion and transformation workflows using Python, Apache Spark, and Airflow with full test coverage and version control. Optimized cloud infrastructure on GCP using Terraform, BigQuery, and Docker. Improved performance with memory-optimized ingestion, chunking, and distributed processing, reducing ingestion time by **30%** through a hybrid metadata structure. Built advanced SQL models with DBT and ensured system reliability with Prometheus monitoring and Grafana dashboards.  
+- **Technologies**: Python, Apache Spark, Airflow, DBT, Terraform, BigQuery, Docker, Prometheus, Grafana, Cloud Storage, Git  
+- **Results**: Delivered a reliable, scalable platform enabling complex pharmaceutical data analytics with real-time monitoring, facilitating faster and more accurate medication safety insights.
+
+### [NYC Taxi Data Analytics Platform](https://github.com/Tryd3x/zoomcamp)
+- **Goal**: Built an end-to-end data pipeline processing large-scale NYC taxi trip data with Kestra orchestration, DBT modeling, and Spark transformations.
+- **Highlights**: Implemented infrastructure-as-code with Terraform for consistent cloud deployment on GCP, and created automated workflows handling schema changes and data lineage.
+- **Technologies**: Kestra, PostgreSQL, DBT, Apache Spark, Terraform, BigQuery, Looker
+- **Results**: Delivered a scalable, reliable pipeline enabling timely and accurate business intelligence reporting, reducing manual intervention and supporting data-driven decisions with up-to-date analytics.
+
+### [Adult Income Prediction using ML Pipeline](https://github.com/tryd3x/ml-pipeline)
 - **Goal**: Predict income levels using the Adult Income Census dataset.
 - **Highlights**: End-to-end ML pipeline with data ingestion, preprocessing, model training (Random Forest, Decision Tree, Logistic Regression), and deployment on Flask.
 - **Technologies**: Anaconda, Python, Scikit-learn, Jupyter, Pandas, Numpy, Flask.
 - **Results**: Achieved **85% accuracy** using hyperparameter-tuned models. Deployed the model on Flask with **real-time predictions under 200ms**.
+
+
 
 ## 📫 How to reach me
 
