@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-I am a **Data Engineer** and **Scientist** with a Master’s in Computer Science, specializing in designing and building scalable, reliable data solutions that drive business impact. My technical expertise spans end-to-end data pipeline development, cloud-native architectures, and machine learning workflows.
+I am a **Data Engineer** and **Analyst** with a Master’s in Computer Science, specializing in designing and building scalable, reliable data solutions that drive business impact. My technical expertise spans end-to-end data pipeline development, cloud-native architectures, and machine learning workflows.
 
-I have hands-on experience with large-scale data processing using Apache Spark, Python, and SQL, as well as orchestrating complex workflows with tools like Airflow and DBT. Skilled in cloud platforms—primarily AWS and GCP—I build and optimize data lakes, ETL pipelines, and data warehouses using services such as AWS Glue, Lambda, Redshift, and GCP BigQuery and Terraform for infrastructure as code.
+I have hands-on experience with large-scale data processing using Apache Spark, Python, and SQL, as well as orchestrating complex workflows with tools like Airflow and DBT. Skilled in cloud platforms—primarily AWS and GCP—I build and optimize data lakes, ETL pipelines, and data warehouses using services such as AWS, GCP, BigQuery and Terraform for infrastructure as code.
 
 Beyond batch processing, I develop real-time and automated pipelines that improve efficiency and reduce costs, integrating CI/CD practices with Docker and monitoring solutions like Prometheus and Grafana to ensure system reliability and performance. I also bring a strong foundation in data science, including feature engineering, model deployment, and building interactive data visualizations.
 
